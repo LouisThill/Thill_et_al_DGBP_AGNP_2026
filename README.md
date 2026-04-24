@@ -10,4 +10,4 @@ Here you can find relevant stuff related to my poster presented at the congress 
 6. Garbusow, M. et al. (2022). Pavlovian-to-instrumental transfer across mental disorders: A review. *Neuropsychobiology*, 81 (5), 418–437. **https://doi.org/10.1159/000525579**
 
 <ins>Recommended Further Reading:</ins>
-- Belanger, M. J., Chen, H., Fröhner, J. H., Garbusow, M., Heinz, A., & Smolka, M. N. (2025). Behavioural and Neural Reliability of a Pavlovian-to-Instrumental Transfer Task. Addiction biology, 30(12), e70112. **https://doi.org/10.1111/adb.70112**
+- Belanger, M. J., Chen, H., Fröhner, J. H., Garbusow, M., Heinz, A., & Smolka, M. N. (2025). Behavioural and Neural Reliability of a Pavlovian-to-Instrumental Transfer Task. *Addiction Biology*, 30(12), e70112. **https://doi.org/10.1111/adb.70112**
