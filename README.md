@@ -1,5 +1,5 @@
 # Poster: Thill et al. (2026) at DGBP-AGNP-congress 
-Here you can find relevant stuff related to my [poster (Thill et al., 2026)](./Thill_et_al_2026_DGBP_version20260416.pdf) 📄 presented at the [congress of the DGBP & AGNP](https://www.dgbp.de/event/6-gemeinsamer-kongress-dgbp-und-agnp-2026/) in Berlin 2026.
+Here you can find relevant stuff related to [📄 my poster (Thill et al., 2026)](./Thill_et_al_2026_DGBP_version20260416.pdf) presented at the [congress of the DGBP & AGNP](https://www.dgbp.de/event/6-gemeinsamer-kongress-dgbp-und-agnp-2026/) in Berlin 2026.
 
 
 <ins>References on Poster:</ins>
