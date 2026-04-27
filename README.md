@@ -1,6 +1,6 @@
 # 📄Poster: Thill et al. (2026) at DGBP-AGNP-congress 
 
-Here you can find relevant stuff related to [my poster (PDF)](./Thill_et_al_2026_DGBP_version20260416.pdf) presented at the [congress of the DGBP & AGNP](https://www.dgbp.de/event/6-gemeinsamer-kongress-dgbp-und-agnp-2026/) in Berlin 🐻 2026. 
+Here you can find relevant stuff related to [my poster (PDF)](./Thill_et_al_2026_DGBP_version20260416.pdf) presented at the [6th congress of the DGBP & AGNP](https://www.dgbp.de/event/6-gemeinsamer-kongress-dgbp-und-agnp-2026/) in Berlin 🐻 2026.
 
 The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
 
@@ -22,9 +22,8 @@ Our group recently published a study on the reliability of our PIT paradigm:
 - Belanger, M. J., Chen, H., Fröhner, J. H., Garbusow, M., Heinz, A., & Smolka, M. N. (2025). Behavioural and Neural Reliability of a Pavlovian-to-Instrumental Transfer Task. *Addiction Biology*, 30(12), e70112. **https://doi.org/10.1111/adb.70112**
 
 ## 📣Many thanks to:
-- My co-authors:
-
-  Hao Chen, Christian Baeuchl, Andreas Heinz and Michael N. Smolka
+- 💼My co-authors: Hao Chen, Christian Baeuchl, Andreas Heinz and Michael N. Smolka
+- 🌱My funding: DGBP-AGNP-Travel Grant, [IRTG 2773: “Risks and Pathomechanisms of Affective Disorders”](https://transcampus.eu/project/mental-health/irtg2773/)
 
 
 
