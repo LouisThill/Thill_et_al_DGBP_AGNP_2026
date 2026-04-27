@@ -4,6 +4,8 @@ Here you can find relevant stuff related to [my poster 📄](./Thill_et_al_2026_
 
 The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
 
+## References
+
 <ins>🗐 References on Poster:</ins>
 1. Cartoni, E. et al. (2016). Appetitive Pavlovian-instrumental transfer: A review. *Neuroscience Biobehavioral Reviews*, 71, 829–848. **https://doi.org/10.1016/j.neubiorev.2016.09.020**
 2. Chen, K. et al. (2023). The association of non–drug-related Pavlovian-to-instrumental transfer effect in nucleus accumbens with relapse in alcohol dependence: A replication. *Biological Psychiatry*, 93 (6), 558–565. **https://doi.org/10.1016/j.biopsych.2022.09.017**
