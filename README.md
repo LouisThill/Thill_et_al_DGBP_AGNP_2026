@@ -1,8 +1,8 @@
 # Poster: Thill et al. (2026) at DGBP-AGNP-congress 
+
 Here you can find relevant stuff related to [my poster 📄](./Thill_et_al_2026_DGBP_version20260416.pdf) presented at the [congress of the DGBP & AGNP](https://www.dgbp.de/event/6-gemeinsamer-kongress-dgbp-und-agnp-2026/) in Berlin 🐻 2026. 
 
-Feel free to reach out in case you have any questions or comments: **louis.thill@tu-dresden.de**
-
+The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
 
 <ins>🗐 References on Poster:</ins>
 1. Cartoni, E. et al. (2016). Appetitive Pavlovian-instrumental transfer: A review. *Neuroscience Biobehavioral Reviews*, 71, 829–848. **https://doi.org/10.1016/j.neubiorev.2016.09.020**
@@ -18,6 +18,11 @@ Feel free to reach out in case you have any questions or comments: **louis.thill
 Our group recently published a study on the reliability of our PIT paradigm:
 - Belanger, M. J., Chen, H., Fröhner, J. H., Garbusow, M., Heinz, A., & Smolka, M. N. (2025). Behavioural and Neural Reliability of a Pavlovian-to-Instrumental Transfer Task. *Addiction Biology*, 30(12), e70112. **https://doi.org/10.1111/adb.70112**
 
+<ins>⚠️Pre-Registration of the Study:</ins>
+
+
 <ins>📣Many thanks to my co-authors:</ins>
 
 Hao Chen, Christian Baeuchl, Andreas Heinz and Michael N. Smolka 
+
+Feel free to reach out in case you have any questions or comments: **louis.thill@tu-dresden.de**
