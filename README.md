@@ -18,9 +18,6 @@ The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/
 Our group recently published a study on the reliability of our PIT paradigm:
 - Belanger, M. J., Chen, H., Fröhner, J. H., Garbusow, M., Heinz, A., & Smolka, M. N. (2025). Behavioural and Neural Reliability of a Pavlovian-to-Instrumental Transfer Task. *Addiction Biology*, 30(12), e70112. **https://doi.org/10.1111/adb.70112**
 
-<ins>⚠️Pre-Registration of the Study:</ins>
-
-
 <ins>📣Many thanks to my co-authors:</ins>
 
 Hao Chen, Christian Baeuchl, Andreas Heinz and Michael N. Smolka 
