@@ -23,6 +23,7 @@ Our group recently published a study on the reliability of our PIT paradigm:
 
 ## 📣Many thanks to:
 - My co-authors:
+
   Hao Chen, Christian Baeuchl, Andreas Heinz and Michael N. Smolka
 
 
