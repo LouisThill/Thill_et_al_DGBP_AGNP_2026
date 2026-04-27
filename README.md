@@ -13,3 +13,6 @@ Here you can find relevant stuff related to my [poster (Thill et al., 2026)](./T
 
 <ins>Recommended Further Reading:</ins>
 - Belanger, M. J., Chen, H., Fröhner, J. H., Garbusow, M., Heinz, A., & Smolka, M. N. (2025). Behavioural and Neural Reliability of a Pavlovian-to-Instrumental Transfer Task. *Addiction Biology*, 30(12), e70112. **https://doi.org/10.1111/adb.70112**
+
+**Many thanks to my co-authors for their contributions**
+Hao Chen, Christian Baeuchl, Andreas Heinz and Michael N. Smolka 
