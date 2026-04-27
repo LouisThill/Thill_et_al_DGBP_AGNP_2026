@@ -15,11 +15,11 @@ Feel free to reach out in case you have any questions or comments: **louis.thill
 6. Garbusow, M. et al. (2022). Pavlovian-to-instrumental transfer across mental disorders: A review. *Neuropsychobiology*, 81 (5), 418–437. **https://doi.org/10.1159/000525579**
 7. Mekonen, T., Chan, G. C. K., Connor, J., Hall, W., Hides, L., and Leung, J. (2021) Treatment rates for alcohol use disorders: a systematic review and meta-analysis. *Addiction*, 116: 2617–2634. **https://doi.org/10.1111/add.15357**
 
-##⚠️Recommended Further Reading:
+## ⚠️Recommended Further Reading:
 Our group recently published a study on the reliability of our PIT paradigm:
 - Belanger, M. J., Chen, H., Fröhner, J. H., Garbusow, M., Heinz, A., & Smolka, M. N. (2025). Behavioural and Neural Reliability of a Pavlovian-to-Instrumental Transfer Task. *Addiction Biology*, 30(12), e70112. **https://doi.org/10.1111/adb.70112**
 
-##📣Many thanks to my co-authors:
+## 📣Many thanks to my co-authors:
 Hao Chen, Christian Baeuchl, Andreas Heinz and Michael N. Smolka 
 
 
