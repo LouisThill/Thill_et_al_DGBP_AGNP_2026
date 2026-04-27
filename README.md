@@ -5,7 +5,6 @@ Here you can find relevant stuff related to [my poster (PDF)](./Thill_et_al_2026
 The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
 
 Feel free to reach out in case you have any questions or comments:
-
 [My profile on GitHub](https://github.com/louisthill/louisthill)
 
 ## 🗐References
