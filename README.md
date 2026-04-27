@@ -12,6 +12,8 @@ Here you can find relevant stuff related to [my poster 📄](./Thill_et_al_2026_
 7. Mekonen, T., Chan, G. C. K., Connor, J., Hall, W., Hides, L., and Leung, J. (2021) Treatment rates for alcohol use disorders: a systematic review and meta-analysis. *Addiction*, 116: 2617–2634. **https://doi.org/10.1111/add.15357**
 
 <ins>⚠️Recommended Further Reading:</ins>
+
+Our group recently published a study on the reliability of our PIT paradigm:
 - Belanger, M. J., Chen, H., Fröhner, J. H., Garbusow, M., Heinz, A., & Smolka, M. N. (2025). Behavioural and Neural Reliability of a Pavlovian-to-Instrumental Transfer Task. *Addiction Biology*, 30(12), e70112. **https://doi.org/10.1111/adb.70112**
 
 <ins>📣Many thanks to my co-authors:</ins>
