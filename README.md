@@ -24,7 +24,8 @@ Our group recently published a study on the reliability of our PIT paradigm:
 ## 📣Many thanks to:
 - 💼My co-authors: Hao Chen, Christian Baeuchl, Andreas Heinz and Michael N. Smolka
 - 🌱My funding:
-    - DGBP-AGNP-Travel Grant, [IRTG 2773: “Risks and Pathomechanisms of Affective Disorders”](https://transcampus.eu/project/mental-health/irtg2773/)
+    - DGBP-AGNP-Travel Grant
+    - [IRTG 2773: “Risks and Pathomechanisms of Affective Disorders”](https://transcampus.eu/project/mental-health/irtg2773/)
 
 
 
