@@ -5,7 +5,9 @@ Here you can find relevant stuff related to [my poster (PDF)](./Thill_et_al_2026
 The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
 
 Feel free to reach out in case you have any questions or comments:
+
 [My profile on GitHub](https://github.com/louisthill/louisthill)
+
 ## 🗐References
 1. Cartoni, E. et al. (2016). Appetitive Pavlovian-instrumental transfer: A review. *Neuroscience Biobehavioral Reviews*, 71, 829–848. **https://doi.org/10.1016/j.neubiorev.2016.09.020**
 2. Chen, K. et al. (2023). The association of non–drug-related Pavlovian-to-instrumental transfer effect in nucleus accumbens with relapse in alcohol dependence: A replication. *Biological Psychiatry*, 93 (6), 558–565. **https://doi.org/10.1016/j.biopsych.2022.09.017**
@@ -19,8 +21,11 @@ Feel free to reach out in case you have any questions or comments:
 Our group recently published a study on the reliability of our PIT paradigm:
 - Belanger, M. J., Chen, H., Fröhner, J. H., Garbusow, M., Heinz, A., & Smolka, M. N. (2025). Behavioural and Neural Reliability of a Pavlovian-to-Instrumental Transfer Task. *Addiction Biology*, 30(12), e70112. **https://doi.org/10.1111/adb.70112**
 
-## 📣Many thanks to my co-authors:
-Hao Chen, Christian Baeuchl, Andreas Heinz and Michael N. Smolka 
+## 📣Many thanks to:
+- My co-authors:
+Hao Chen, Christian Baeuchl, Andreas Heinz and Michael N. Smolka
+
+
 
 
 
