@@ -4,7 +4,7 @@ Here you can find relevant stuff related to [my poster (PDF)](./Thill_et_al_2026
 
 The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
 
-Feel free to reach out in case you have any questions or comments: **louis.thill@tu-dresden.de**
+Feel free to reach out in case you have any questions or comments:
 [My profile on GitHub](https://github.com/louisthill/louisthill)
 ## 🗐References
 1. Cartoni, E. et al. (2016). Appetitive Pavlovian-instrumental transfer: A review. *Neuroscience Biobehavioral Reviews*, 71, 829–848. **https://doi.org/10.1016/j.neubiorev.2016.09.020**
