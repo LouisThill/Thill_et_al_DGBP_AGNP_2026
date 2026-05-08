@@ -6,7 +6,7 @@ The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/
 
 Feel free to reach out in case you have any questions or comments:
 
-[My profile on GitHub](https://github.com/louisthill/louisthill)
+[My profile & Contact Info](https://github.com/louisthill/louisthill)
 
 ## 🗐References
 1. Cartoni, E. et al. (2016). Appetitive Pavlovian-instrumental transfer: A review. *Neuroscience Biobehavioral Reviews*, 71, 829–848. **https://doi.org/10.1016/j.neubiorev.2016.09.020**
