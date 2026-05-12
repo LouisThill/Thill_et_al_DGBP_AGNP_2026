@@ -1,5 +1,7 @@
 # 📄Poster: Thill et al. (2026) at DGBP-AGNP-congress 
 
+*Selected for a flash talk and awarded 2nd place in the poster prize competition by the AGNP*
+
 Here you can find relevant stuff related to [my poster (PDF)](./Thill_et_al_2026_DGBP_version20260416.pdf) presented at the [6th congress of the DGBP & AGNP](https://www.dgbp.de/event/6-gemeinsamer-kongress-dgbp-und-agnp-2026/) in Berlin 🐻 2026.
 
 The study was pre-registered at [clinicaltrials.gov](https://clinicaltrials.gov/study/NCT05992272?term=pavlovian%20instrumental&rank=1). 
